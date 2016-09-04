@@ -162,7 +162,9 @@ package/nuPickers*.nupkg
 package/nuPickers*.zip
 
 # Exclude local test site
-www/
+
 
 source/nuWebTestSite/App_Data/ClientDependency/*
 
+source/.vs/
+source/www/
